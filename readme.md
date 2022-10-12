@@ -12,7 +12,7 @@
 
 ## Live Link
 
-[Link]()
+[Link](https://shwetank-word-counter.netlify.app/)
 
 ## Screenshot 
 
